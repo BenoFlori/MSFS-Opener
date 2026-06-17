@@ -7,3 +7,16 @@ Deutsch
 
 Diese App ist ein Launcher für Microsoft Flight Simulator 2024.
 Sie ermöglicht es, verschiedene Programme wie MSFS 2024, Map Enhancements oder REX Atmos schnell über eine zentrale Oberfläche zu starten. Zusätzlich können eigene Programme hinzugefügt, bearbeitet und gelöscht werden. Die Einstellungen werden automatisch gespeichert, sodass der Launcher personalisiert bleibt.
+
+
+Install:
+
+PART1:
+
+Install the "MSFS Opener" folder somewhere.
+
+PART2:
+
+Move the "MSFS_Opener.exe" shortcut—the one found in the folder along with the README—to your desktop. 
+
+DONE
